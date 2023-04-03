@@ -1,0 +1,16 @@
+{
+    "name": "vduqu/app",
+    "description": "composer quest",
+    "autoload": {
+        "psr-4": {
+            "Vduqu\\App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Giny23",
+            "email": "vduquenoy23@gmail.com"
+        }
+    ],
+    "require": {}
+}
